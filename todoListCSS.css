@@ -1,0 +1,44 @@
+#form {
+    margin-left: auto;
+    margin-right: auto;
+    /* display: flex; */
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .task-box {
+    border-radius: 18px;
+    border: none;
+    text-align: center;
+  }
+  .todo-outer-box {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .todo-box {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25rem;
+    /* overflow: scroll; */
+  }
+  .header-area {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+  }
+  .list {
+    list-style-type: none;
+    padding: 0%;
+  }
+  
+  .list-item{
+    width: auto;
+    height: auto;
+    font-size: x-large;
+    display: flex;
+    margin: 3%;
+    padding: 2%;
+    justify-content: space-between;
+    font-size: x-large;
+  }
+ 
